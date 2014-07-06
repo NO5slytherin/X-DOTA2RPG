@@ -1,5 +1,5 @@
 # 关于本书
-## [本书目录](https://github.com/XavierCHN/X-DOTA2RPG/blob/master/SUMMARY.md)
+## [点击进入本书目录](https://github.com/XavierCHN/X-DOTA2RPG/blob/master/SUMMARY.md)
 
 >写在2014年的七月份，TI4前夕。<br />
 >VALVE总是这样，给人希望，又吊人胃口，不管是永远都不会数3的G胖，还是更新一个英雄都要大半年的DOTA2，这DOTA2官方的GUI编辑器看起来是那么地遥遥无期。
